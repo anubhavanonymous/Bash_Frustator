@@ -7,17 +7,10 @@
 * `Shell script obfuscator and deobfuscator for Linux And Termux !`
 
 ## Usage
-Clone it 
-```bash
-git clone https://github.com/anubhavanonymous/bash_frustator
-```
-Navigate to the Directory
-```bash
-cd bash_frustator
-```
 Install dependencies
 ```bash
 pkg up -y
+pkg install git -y
 pkg install wget -y
 pkg install curl -y
 pkg install openssl -y
@@ -28,6 +21,15 @@ pip2 install bs4
 pip2 install uncompyle6
 npm install -g bash-obfuscate
 ```
+Clone it 
+```bash
+git clone https://github.com/anubhavanonymous/bash_frustator
+```
+Navigate to the Directory
+```bash
+cd bash_frustator
+```
+
 Run the script
 ```bash
 python2 frustrator.py
