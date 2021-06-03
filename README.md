@@ -26,6 +26,7 @@ python2 frustrator.py
 * `encrypt`
 <br>
 <img src="IMG_20210603_190203.jpg"><br>
+
 * `decrypt`
 <br>
 <img src="IMG_20210603_190222.jpg"><br>
