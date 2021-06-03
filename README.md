@@ -1,6 +1,5 @@
-<h1 align="center">BASH FRUSTRATOR
+
 <img src="IMG_20210603_104924.jpg"><br>
-</h1>
 
 
 * `🔓 🔐 🔒`<br />
