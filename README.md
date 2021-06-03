@@ -23,8 +23,8 @@ Run the script
 ```bash
 python2 frustrator.py
 ```
-##Screenshots (termux)
+## Screenshots (termux)
 * `encrypt`
 <img src="IMG_20210603_190203.jpg"><br>
 * `decrypt`
-<img src="logo.jpg"><br>
+<img src="IMG_20210603_190222.jpg"><br>
