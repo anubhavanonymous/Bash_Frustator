@@ -12,11 +12,11 @@ pkg up -y;pkg install git -y;pkg install wget -y;pkg install curl -y;pkg install
 ```
 Clone the repository
 ```bash
-git clone https://github.com/anubhavanonymous/bash_frustator
+git clone https://github.com/anubhavanonymous/Bash_Frustator
 ```
 Navigate to the directory
 ```bash
-cd bash_frustator
+cd Bash_Frustator
 ```
 Run the script
 ```bash
