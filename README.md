@@ -20,7 +20,7 @@ cd bash_frustator
 ```
 Run the script
 ```bash
-python2 frustrator.py
+python2 frustator.py
 ```
 ## Screenshots (termux)
 🎋 `encrypt`
