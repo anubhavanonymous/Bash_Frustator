@@ -22,6 +22,10 @@ Run the script
 ```bash
 python2 frustator.py
 ```
+
+## Licence
+BSD 3-Clause © Anubhav Kashyap
+
 ## Screenshots (termux)
 🎋 `encrypt`
 
