@@ -4,6 +4,7 @@
 
 * `🔓 🔐 🔒`<br />
 * `Shell script obfuscator and deobfuscator for Linux And Termux !`
+* `Encodes the script in base64`
 
 ## Usage
 Install dependencies
